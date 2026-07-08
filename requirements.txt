@@ -1,4 +1,3 @@
 fastapi
-pydantic
-base64
-tempfile
+uvicorn
+python-multipart
