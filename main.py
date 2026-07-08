@@ -18,7 +18,7 @@ def predict():
             "variance": {},
             "min": {},
             "max": {},
-            "median": {},
+            "median": {["소득"]},
             "mode": {},
             "range": {},
             "allowed_values": {},
