@@ -11,7 +11,7 @@ def home():
 def predict():
     return JSONResponse(
         content={
-            "rows": 0,
+            "rows": 140,
             "columns": ["소득"],
             "mean": {},
             "std": {},
