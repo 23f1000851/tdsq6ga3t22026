@@ -4,7 +4,7 @@ import traceback
 
 app = FastAPI()
 
-@app.post("/your-endpoint")
+@app.post("/predict")
 async def solve(req: Request):
     try:
         data = await req.json()
