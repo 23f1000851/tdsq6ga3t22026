@@ -1,2 +1,4 @@
 fastapi
-numpy
+pydantic
+base64
+tempfile
