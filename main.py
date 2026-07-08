@@ -12,7 +12,7 @@ def predict():
     return JSONResponse(
         content={
             "rows": 0,
-            "columns": [],
+            "columns": ["소득"],
             "mean": {},
             "std": {},
             "variance": {},
